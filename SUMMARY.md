@@ -1,3 +1,16 @@
 # Table of contents
 
-* [草拟方案](README.md)
+* [总结](README.md)
+* [引言](yin-yan.md)
+* [背景](bei-jing.md)
+* [方案内容](fang-an-nei-rong/README.md)
+  * [方案一：P/F机制改革](fang-an-nei-rong/fang-an-yi-pf-ji-zhi-gai-ge.md)
+  * [其他方案](fang-an-nei-rong/qi-ta-fang-an.md)
+* [迫切性合理性论证](po-qie-xing-he-li-xing-lun-zheng.md)
+* [课程安排等其他关切](ke-cheng-an-pai-deng-qi-ta-guan-qie.md)
+* [最新Update](zui-xin-update.md)
+* [论据收集](lun-ju-shou-ji.md)
+* [Appendix](appendix.md)
+* [Eng Version](eng-version.md)
+* [补充讨论](bu-chong-tao-lun.md)
+* [联署/Consigners](lian-shu-consigners.md)
