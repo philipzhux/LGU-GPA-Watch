@@ -9,7 +9,7 @@
 
 ### 方案优势
 
-1. 先例存在：2019-20学年term 2可选择P/F大学核心课，CEC1000可出分后选择P/F。外部案例方面，支持PNP Grading Option的大学众多，有[哥伦比亚大学](https://www.registrar.columbia.edu/content/grade-options#pass-d-fail-p-f)，[加州大学伯克利分校](https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/grades/)（允许1/3学分采取PNP Option），[麻省理工大学](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/flexible-pnr-grading-option)（允许大一修读的全部课程采取P/NR Grading Option），加州大学戴维斯分校（允许学生对2020春季学期的课程回溯性选择P/NP，即在2020年之后回溯选择PNP），[USC](https://undergrad.usc.edu/services/advisor-connect/ugradpnp/)（允许学生对32个学分进行PNP），案例还有很多，数不胜数。
+1. 先例存在：2019-20学年term 2可选择P/F大学核心课，CEC1000可出分后选择P/F。外部案例方面，支持PNP Grading Option的大学众多，有[哥伦比亚大学](https://www.registrar.columbia.edu/content/grade-options#pass-d-fail-p-f)，[加州大学伯克利分校](https://engineering.berkeley.edu/students/undergraduate-guide/policies-procedures/grades/#ac12269)（允许1/3学分采取PNP Option），[麻省理工大学](https://registrar.mit.edu/classes-grades-evaluations/grades/grading-policies/flexible-pnr-grading-option)（允许大一修读的全部课程采取P/NR Grading Option），加州大学戴维斯分校（允许学生对2020春季学期的课程回溯性选择P/NP，即在2020年之后回溯选择PNP），[USC](https://undergrad.usc.edu/services/advisor-connect/ugradpnp/)（允许学生对32个学分进行PNP），案例还有很多，数不胜数。
 2. 易于执行：不受总学则直接约束，即完全不需要修改龙岗和沙田的本科生学则，因此程序上较简单，且P/F机制改革牵涉相关方较少，故能尽快落地，及时奏效于19级MS/PhD申请。
 3. 弹性充分：P/F机制可限定科目数量或科目类型，探讨空间充足。
 
