@@ -4,6 +4,8 @@ _如需联系提案创建人，请电邮 me@cyzhu.dev_
 
 _如需联系提案审稿人，请电邮 zhibins2@illinois.edu_
 
+_本gitbook处于草稿阶段，与原文档相对同步，希望修改gitbook的欢迎在_[_本repo_](https://github.com/philipzhux/LGU-GPA-Watch.git) _pull request_
+
 _总结一下该提案涉及的3个倡议：_
 
 _1. P/F机制改革_
