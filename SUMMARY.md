@@ -12,5 +12,5 @@
 * [论据收集](lun-ju-shou-ji.md)
 * [Appendix](appendix.md)
 * [Eng Version](eng-version.md)
-* [补充讨论](bu-chong-tao-lun.md)
 * [联署/Consigners](lian-shu-consigners.md)
+* [最终提案](zui-zhong-ti-an.md)

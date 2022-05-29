@@ -20,7 +20,7 @@ _（我们已找到出分后P/F的先例: UCD2020春季学期回溯性P/F选择�
 
 ![descript](.gitbook/assets/0)
 
-![descript](.gitbook/assets/1)
+![descript](<.gitbook/assets/1 (1)>)
 
 ![descript](.gitbook/assets/2)
 
